@@ -30,3 +30,4 @@ To take screenshot in action.js file -
 ```
 testcafe chrome tests/actions.js -s screenshots
 ```
+> Page object model implemntation's idea is taken from the official docs but here all the features are covered
